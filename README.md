@@ -6,12 +6,6 @@ Onchain casino game smart contract - A Solana smart contract for Chess game betw
 
 This program allows two users to securely deposit SOL into an escrow account, with funds released to the winner (or split as needed) after the result is determined. The contract handles fee distribution, rent exemption, and ensures only valid parties can interact with the escrow.
 
-## Contact
-
-If you have any quesion, contact here: [Telegram](https://t.me/mateosoul) 
-
-
-Gmail: mateo.talentdev@gmail.com
 
 
 ## Features
